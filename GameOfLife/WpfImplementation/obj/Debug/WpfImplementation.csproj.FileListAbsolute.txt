@@ -1,0 +1,16 @@
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\bin\Debug\WpfImplementation.exe.config
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\bin\Debug\WpfImplementation.exe
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\bin\Debug\WpfImplementation.pdb
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\bin\Debug\LifeLib.dll
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\bin\Debug\LifeLib.pdb
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\WpfImplementation.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\MainWindow.g.cs
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\App.g.cs
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\WpfImplementation_MarkupCompile.cache
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\WpfImplementation_MarkupCompile.lref
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\MainWindow.baml
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\WpfImplementation.g.resources
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\WpfImplementation.Properties.Resources.resources
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\WpfImplementation.csproj.GenerateResource.Cache
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\WpfImplementation.exe
+D:\Programming\C#\Projects\GameOfLife\WpfImplementation\obj\Debug\WpfImplementation.pdb

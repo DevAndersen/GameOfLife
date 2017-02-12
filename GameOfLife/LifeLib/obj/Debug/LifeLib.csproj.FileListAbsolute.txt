@@ -1,0 +1,5 @@
+D:\Programming\C#\Projects\GameOfLife\LifeLib\bin\Debug\LifeLib.dll
+D:\Programming\C#\Projects\GameOfLife\LifeLib\bin\Debug\LifeLib.pdb
+D:\Programming\C#\Projects\GameOfLife\LifeLib\obj\Debug\LifeLib.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Projects\GameOfLife\LifeLib\obj\Debug\LifeLib.dll
+D:\Programming\C#\Projects\GameOfLife\LifeLib\obj\Debug\LifeLib.pdb

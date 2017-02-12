@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfImplementation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfImplementation"
+        mc:Ignorable="d"
+        Title="Game of Life" Height="720" Width="1080" WindowStartupLocation="CenterScreen" Closing="Window_Closing">
+    <Grid SnapsToDevicePixels="True">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="0" Background="Gray" Padding="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Grid x:Name="mainGrid" Width="640" Height="640"/>
+        </Border>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Button x:Name="btnTick" Width="120" Margin="2" Click="btnTick_Click">Tick</Button>
+            <Button x:Name="btnAuto" Width="120" Margin="2" Click="btnAuto_Click">Turn auto tick on</Button>
+            <Label Margin="16,2,2,2">Tick speed:</Label>
+            <Slider x:Name="sliderAutoTickRate" Orientation="Horizontal" Width="360" Margin="2" VerticalAlignment="Center" Minimum="50" Maximum="1000" Value="250" IsSnapToTickEnabled="True" TickFrequency="50" ValueChanged="sliderAutoTickRate_ValueChanged"/>
+            <Label x:Name="lblAutoTickRate" Margin="2">[250]</Label>
+        </StackPanel>
+    </Grid>
+</Window>

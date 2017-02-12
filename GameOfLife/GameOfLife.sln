@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeLib", "LifeLib\LifeLib.csproj", "{4787DC62-E800-47FF-9836-E09C7704E0D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfImplementation", "WpfImplementation\WpfImplementation.csproj", "{92D269BF-833C-47DC-BB2A-B39459EAD660}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4787DC62-E800-47FF-9836-E09C7704E0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4787DC62-E800-47FF-9836-E09C7704E0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4787DC62-E800-47FF-9836-E09C7704E0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4787DC62-E800-47FF-9836-E09C7704E0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D269BF-833C-47DC-BB2A-B39459EAD660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D269BF-833C-47DC-BB2A-B39459EAD660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D269BF-833C-47DC-BB2A-B39459EAD660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D269BF-833C-47DC-BB2A-B39459EAD660}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
